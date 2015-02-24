@@ -1,0 +1,35 @@
+.job-title-icon {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.profile-description {
+  color: #fff;
+  background-color: #085078;
+  border-color: #85D8CE;
+  h3 {
+    margin-top: 0;
+  }
+}
+
+.contact-info {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #085078;
+  h3 {
+    margin-top: 0;
+  }
+}
+
+.avatar {
+  border-radius: 50%;
+  -webkit-box-shadow: 0px 6px 4px 0px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow: 0px 6px 4px 0px rgba(50, 50, 50, 0.75);
+  box-shadow: 0px 6px 4px 0px rgba(50, 50, 50, 0.75);
+  border: 2px solid white;
+}
